@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer and MERN Stack Learner</h3>
 
 🔭 I’m currently working on **IVR Dashboard Development**  
-🌱 I’m currently learning **MERN Stack **  
+🌱 I’m currently learning MERN Stack  
 📫 Reach me at **dpriyankaraj1@gmail.com**
 
 ---
