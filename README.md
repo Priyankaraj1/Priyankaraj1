@@ -44,13 +44,17 @@ Aspiring CSE graduate with a passion for problem-solving and scalable web develo
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyankaraj1&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyankaraj1&theme=radical" alt="GitHub Streak" height="160"/>
+  <!-- GitHub profile stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyankaraj1&show_icons=true&theme=radical" alt="Priyankaraj1's GitHub stats" height="160"/>
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyankaraj1&theme=radical" alt="Priyankaraj1's GitHub streak stats" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankaraj1&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankaraj1&layout=compact&theme=radical" alt="Top languages used by Priyankaraj1" />
 </p>
+
 
 ---
 
