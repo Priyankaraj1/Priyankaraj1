@@ -4,7 +4,7 @@
 <p align="center">
 🔭 Working on IVR Dashboard Development<br/>
 🌱 Learning MERN Stack & exploring blockchain<br/>
-
+⭐ GitHub Stars: <strong>2</strong><br/>
 📫 Reach me at <strong>dpriyankaraj1@gmail.com</strong>
 </p>
 
@@ -12,8 +12,6 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
@@ -42,13 +40,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyankaraj1&show_icons=true&theme=dracula" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyankaraj1&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyankaraj1&show_icons=true&theme=dracula" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=Priyankaraj1&theme=dracula" height="160" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankaraj1&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+
 
 ---
 
