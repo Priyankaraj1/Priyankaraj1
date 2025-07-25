@@ -51,7 +51,7 @@
 
 ---
 
-### 🎓 Certifications & Achievements
+## 🎓 Certifications & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Infosys%20Springboard-TechA%20Java%20Developer-blueviolet?style=for-the-badge" alt="Infosys Java Developer"/>
