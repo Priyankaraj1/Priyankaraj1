@@ -36,7 +36,6 @@
 | Blockchain Land-Records | Decentralized DApp securing land records via smart contracts. | Solidity, Ethereum, Web3.js |
 
 ---
-
 ### 📈 GitHub Stats
 
 <p align="center">
