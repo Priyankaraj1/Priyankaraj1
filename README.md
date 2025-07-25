@@ -47,9 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankaraj1&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
-
 ---
-
 ## 🎓 Certifications & Achievements
 
 <p align="center">
