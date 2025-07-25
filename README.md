@@ -37,7 +37,6 @@
 
 ---
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyankaraj1&show_icons=true&theme=dracula" height="160" />
   <img src="https://streak-stats.demolab.com/?user=Priyankaraj1&theme=dracula" height="160" />
