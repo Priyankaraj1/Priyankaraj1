@@ -1,27 +1,33 @@
-<h1 align="center">Hi 👋, I'm Priyanka D</h1>
-<h3 align="center">🌟 Frontend Developer & MERN Stack Learner</h3>
+<div align="center">
 
-<p align="center">
-🔭 Working on IVR Dashboard Development<br/>
-🌱 Learning MERN Stack & exploring blockchain<br/>
-⭐ GitHub Stars: <strong>2</strong><br/>
-📫 Reach me at <strong>dpriyankaraj1@gmail.com</strong>
+<img src="https://media.giphy.com/media/qgM9Cg98R9yqP2b2r1/giphy.gif" width="60"/>
+
+<h1>Hi there 👋, I'm Priyanka D</h1>
+<h3>Frontend Developer | MERN Stack Learner | Blockchain Enthusiast</h3>
+<p>
+  🚀 A passionate and results-oriented **Frontend Developer** with a keen interest in building dynamic and user-friendly web applications. Currently, I'm focused on **IVR Dashboard Development** while actively expanding my skills in the **MERN stack** and exploring the exciting world of **blockchain technology**.
 </p>
+</div>
 
 ---
 
- 🛠️ Tech Stack
+### 🌱 I'm currently learning
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- Blockchain Development (Solidity, Ethereum, Web3.js)
+
+### 💻 My Toolbox
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity" alt="Solidity" />
 </p>
 
 ---
@@ -29,37 +35,40 @@
 ### 🔭 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [college-erp](https://github.com/Priyankaraj1/college-erp) | MERN-based ERP managing student courses, grades, faculty, dashboard & authentication. | React, Node, Express, MongoDB |
-| [Tax-Calculator](https://github.com/Priyankaraj1/Tax-Calculator) | Console-based Java tool computing income tax by bracket. | Java |
-| [Signature-verification-application](https://github.com/Priyankaraj1/Signature-verification-application) | Console-app in Python using ML techniques for signature validation. | Python, ML |
-| Blockchain Land-Records | Decentralized DApp securing land records via smart contracts. | Solidity, Ethereum, Web3.js |
+|---|---|---|
+| **[college-erp](https://github.com/Priyankaraj1/college-erp)** | A full-stack ERP system built on the MERN stack for managing student courses, grades, faculty, and authentication. | `React`, `Node.js`, `Express.js`, `MongoDB` |
+| **[Tax-Calculator](https://github.com/Priyankaraj1/Tax-Calculator)** | A console-based Java application designed to accurately calculate income tax based on different tax brackets. | `Java` |
+| **[Signature-verification-application](https://github.com/Priyankaraj1/Signature-verification-application)** | A Python console application that uses machine learning techniques to validate and verify signatures. | `Python`, `Machine Learning` |
+| **Blockchain Land-Records** | A decentralized application (dApp) that leverages smart contracts to securely store and manage land records on the blockchain. | `Solidity`, `Ethereum`, `Web3.js` |
 
 ---
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyankaraj1&show_icons=true&theme=dracula" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=Priyankaraj1&theme=dracula" height="160" />
-</p>
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyankaraj1&show_icons=true&theme=dracula&count_private=true" height="160" alt="Priyanka's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Priyankaraj1&theme=dracula" height="160" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankaraj1&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
-## 🎓 Certifications & Achievements
+
+### 🎓 Certifications & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infosys%20Springboard-TechA%20Java%20Developer-blueviolet?style=for-the-badge" alt="Infosys Java Developer"/>
-  <img src="https://img.shields.io/badge/CodeChef-Advanced%20Java%20Programming-orange?style=for-the-badge" alt="CodeChef Advanced Java"/>
-  <img src="https://img.shields.io/badge/Salesforce-Virtual%20Internship%20Program-blue?style=for-the-badge" alt="Salesforce Internship"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-ff6c37?style=for-the-badge&logo=postman" alt="Postman API Expert"/>
-  <img src="https://img.shields.io/badge/KSCST-46th%20Project%20Exhibition-yellowgreen?style=for-the-badge" alt="KSCST Project Exhibition"/>
-  <img src="https://img.shields.io/badge/Leadership-Peer%20Club%20Coordinator%20%26%20NSS%20Team%20Lead-brightgreen?style=for-the-badge" alt="Leadership Roles"/>
+  <img src="https://img.shields.io/badge/Infosys%20Springboard-TechA%20Java%20Developer-blueviolet?style=for-the-badge" alt="Infosys Java Developer" />
+  <img src="https://img.shields.io/badge/CodeChef-Advanced%20Java%20Programming-orange?style=for-the-badge" alt="CodeChef Advanced Java" />
+  <img src="https://img.shields.io/badge/Salesforce-Virtual%20Internship%20Program-blue?style=for-the-badge" alt="Salesforce Internship" />
+  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-ff6c37?style=for-the-badge&logo=postman" alt="Postman API Expert" />
+  <img src="https://img.shields.io/badge/KSCST-46th%20Project%20Exhibition-yellowgreen?style=for-the-badge" alt="KSCST Project Exhibition" />
+  <img src="https://img.shields.io/badge/Leadership-Peer%20Club%20Coordinator%20%26%20NSS%20Team%20Lead-brightgreen?style=for-the-badge" alt="Leadership Roles" />
 </p>
 
 ---
-### 🔗 Connect with Me
+
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanka-d-a735a3232/">
@@ -68,8 +77,11 @@
   <a href="https://github.com/Priyankaraj1">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+  <a href="mailto:dpriyankaraj1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-⭐ “Striving to build impactful digital solutions while learning every day.”
+<h5 align="center">“Striving to build impactful digital solutions while learning every day.”</h5>
