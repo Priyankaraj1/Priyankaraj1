@@ -32,14 +32,6 @@
 
 ---
 
-### 🔭 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[college-erp](https://github.com/Priyankaraj1/college-erp)** | A full-stack ERP system built on the MERN stack for managing student courses, grades, faculty, and authentication. | `React`, `Node.js`, `Express.js`, `MongoDB` |
-| **[Tax-Calculator](https://github.com/Priyankaraj1/Tax-Calculator)** | A console-based Java application designed to accurately calculate income tax based on different tax brackets. | `Java` |
-| **[Signature-verification-application](https://github.com/Priyankaraj1/Signature-verification-application)** | A Python console application that uses machine learning techniques to validate and verify signatures. | `Python`, `Machine Learning` |
-| **Blockchain Land-Records** | A decentralized application (dApp) that leverages smart contracts to securely store and manage land records on the blockchain. | `Solidity`, `Ethereum`, `Web3.js` |
 
 ---
 
